@@ -4,6 +4,8 @@
 _Consultoria, desenvolvimento e hospedagem Frappe/ERPNext._
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-amplia--labs-181717?style=flat-square&logo=github)](https://github.com/amplia-labs)
+[![Site](https://img.shields.io/badge/Site-amplialabs.com.br-0f766e?style=flat-square)](https://amplialabs.com.br)
+[![Contato](https://img.shields.io/badge/Contato-contato%40amplialabs.com.br-dc2626?style=flat-square)](mailto:contato@amplialabs.com.br)
 [![Frappe](https://img.shields.io/badge/Frappe-Framework-5e64ff?style=flat-square)](https://frappeframework.com/)
 [![ERPNext](https://img.shields.io/badge/ERPNext-ready-0089ff?style=flat-square)](https://erpnext.com/)
 
@@ -11,7 +13,7 @@ _Consultoria, desenvolvimento e hospedagem Frappe/ERPNext._
 
 </div>
 
-A **Amplia Labs** cria, customiza e hospeda soluções com [Frappe](https://frappeframework.com/) e [ERPNext](https://erpnext.com/).
+A **Amplia Labs** cria, customiza e hospeda soluções com [Frappe](https://frappeframework.com/) e [ERPNext](https://erpnext.com/). Conheça o site em [amplialabs.com.br](https://amplialabs.com.br).
 
 Atuamos em projetos de ERP, apps internos, integrações, automações e sustentação de ambientes Frappe.
 
@@ -50,6 +52,12 @@ Trabalhamos com empresas que usam ou querem adotar Frappe/ERPNext para organizar
 | [`frappe-devcontainer`](https://github.com/amplia-labs/frappe-devcontainer) | Template pronto para desenvolver apps Frappe com VS Code, Docker, MariaDB, Redis e `bench`. | ![Template](https://img.shields.io/badge/template-ready-2ea44f?style=flat-square) |
 
 ## Contato
+
+Para conversar sobre consultoria, desenvolvimento ou hospedagem Frappe/ERPNext:
+
+- Site: [amplialabs.com.br](https://amplialabs.com.br)
+- E-mail: [contato@amplialabs.com.br](mailto:contato@amplialabs.com.br)
+- WhatsApp: [+55 21 99897-1424](https://wa.me/5521998971424?text=Ol%C3%A1!%20Gostaria%20de%20conversar%20sobre%20um%20projeto%20Frappe%2FERPNext.)
 
 Para acompanhar os projetos públicos, visite [github.com/amplia-labs](https://github.com/amplia-labs).
 
