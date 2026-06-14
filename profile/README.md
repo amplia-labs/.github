@@ -6,7 +6,6 @@ _Consultoria, desenvolvimento e hospedagem Frappe/ERPNext._
 [![GitHub Org](https://img.shields.io/badge/GitHub-amplia--labs-181717?style=flat-square&logo=github)](https://github.com/amplia-labs)
 [![Frappe](https://img.shields.io/badge/Frappe-Framework-5e64ff?style=flat-square)](https://frappeframework.com/)
 [![ERPNext](https://img.shields.io/badge/ERPNext-ready-0089ff?style=flat-square)](https://erpnext.com/)
-[![Dev Containers](https://img.shields.io/badge/Dev%20Containers-ready-blue?style=flat-square&logo=visualstudiocode)](https://containers.dev/)
 
 [Sobre](#sobre) • [O que fazemos](#o-que-fazemos) • [Projetos](#projetos) • [Contato](#contato)
 
