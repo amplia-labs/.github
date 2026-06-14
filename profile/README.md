@@ -1,10 +1,6 @@
 <!-- prettier-ignore -->
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/238115774?v=4" alt="Amplia Labs" width="96" />
-
-# Amplia Labs
-
 _Consultoria, desenvolvimento e hospedagem Frappe/ERPNext._
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-amplia--labs-181717?style=flat-square&logo=github)](https://github.com/amplia-labs)
